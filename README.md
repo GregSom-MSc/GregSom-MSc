@@ -4,7 +4,10 @@ A passionate **financial analyst** and **entrepreneur** with a 🌍 global visio
 📖 Lifelong Learner. My experience spans strategic leadership, technical expertise, and a commitment to empowering communities through technology.
 
 ---
-
+<table style="border: none;">
+  <tr>
+    <td>
+      
 ## 🐍 About Me
 
 - 📚 **Currently Learning:** Distributed Systems, Microservices, and Advanced Machine Learning.  
@@ -17,7 +20,7 @@ A passionate **financial analyst** and **entrepreneur** with a 🌍 global visio
 
     </td>
     <td>
-      <img src="[assets](https://gregsom-msc.github.io/assets/Images/SLogo3D.webp" alt="SGMSMe" style="width: 300px; border-radius: 10px;" />
+      <img src="https://gregsom-msc.github.io/assets/Images/SLogo3D.webp" alt="SGMSMe" style="width: 300px; border-radius: 10px;" />
     </td>
   </tr>
 </table>
