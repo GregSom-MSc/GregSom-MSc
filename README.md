@@ -4,9 +4,10 @@ A passionate **financial analyst** and **entrepreneur** with a 🌍 global visio
 📖 Lifelong Learner. My experience spans strategic leadership, technical expertise, and a commitment to empowering communities through technology.
 
 ---
-<table style="border: none;">
+
+<table>
   <tr>
-    <td>
+    <td style="border: none;">
       
 ## 🐍 About Me
 
@@ -19,8 +20,9 @@ A passionate **financial analyst** and **entrepreneur** with a 🌍 global visio
 - 🌟 **Fun Fact:** I’m a passionate runner and 🌱+🐠 aquascape enthusiast!  
 
     </td>
-    <td>
-      <img src="https://gregsom-msc.github.io/assets/Images/SLogo3D.webp" alt="SGMSMe" style="width: 300px; border-radius: 10px;" />
+    <td style="border: none;">
+  <a href="https://your-website-link.com](https://gregsom-msc.github.io/"> 
+        <img src="https://gregsom-msc.github.io/assets/Images/SLogo3D.webp" alt="SGMSMe" style="width: 300px; border-radius: 10px;">   
     </td>
   </tr>
 </table>
@@ -28,6 +30,7 @@ A passionate **financial analyst** and **entrepreneur** with a 🌍 global visio
 ---
 
 ## 🛠️ Languages and Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
