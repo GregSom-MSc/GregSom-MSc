@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6585747a-de72-48c8-91e5-c2d324888361)# Hey 👋, I'm Samuel!
+# Hey 👋, I'm Samuel!
 
 A passionate **financial analyst** and **entrepreneur** with a 🌍 global vision and passion on creating innovative solutions and delivering impactful results.  
 📖 Lifelong Learner. My experience spans strategic leadership, technical expertise, and a commitment to empowering communities through technology.
