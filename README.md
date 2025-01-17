@@ -1,13 +1,13 @@
-# Hey 👋, I'm Samuel!
+![image](https://github.com/user-attachments/assets/6585747a-de72-48c8-91e5-c2d324888361)# Hey 👋, I'm Samuel!
 
 A passionate **financial analyst** and **entrepreneur** with a 🌍 global vision and passion on creating innovative solutions and delivering impactful results.  
 📖 Lifelong Learner. My experience spans strategic leadership, technical expertise, and a commitment to empowering communities through technology.
 
 ---
 
-<table>
+<table style="border-collapse: collapse; width: 100%;border: none">
   <tr>
-    <td style="border: none;">
+    <td style="border: none; vertical-align: top; padding-right: 10px;">
       
 ## 🐍 About Me
 
@@ -20,9 +20,11 @@ A passionate **financial analyst** and **entrepreneur** with a 🌍 global visio
 - 🌟 **Fun Fact:** I’m a passionate runner and 🌱+🐠 aquascape enthusiast!  
 
     </td>
-    <td style="border: none;">
-  <a href="https://your-website-link.com](https://gregsom-msc.github.io/"> 
-        <img src="https://gregsom-msc.github.io/assets/Images/SLogo3D.webp" alt="SGMSMe" style="width: 300px; border-radius: 10px;">   
+    <td style="border: none; vertical-align: top; padding-right: 20px;">
+    <a href="https://gregsom-msc.github.io/"> 
+        <img src="https://gregsom-msc.github.io/assets/Images/SLogo3D.webp" alt="SGMSMe" style="width: 300px; border-radius: 10px; display: block;">
+      </a>
+      
     </td>
   </tr>
 </table>
